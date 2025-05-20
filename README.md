@@ -115,3 +115,7 @@ Otherwise, you have to use a tunnel service:
 JLinkRemoteServerCL -UseTunnel -TunnelBySN -select="801048148"
 ```
 
+
+## v0.0.4 - 2025-05-20
+- Added GitHub Actions deploy workflow
+
